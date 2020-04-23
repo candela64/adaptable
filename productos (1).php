@@ -38,3 +38,4 @@ array_push($aproductos, $temp);
 }
 //displaying the result in json format
 echo json_encode($aproductos);
+?>
