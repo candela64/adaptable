@@ -1,4 +1,3 @@
-<?php
 
 //database constants
 define('DB_HOST','db4free.net');
@@ -38,4 +37,4 @@ array_push($aproductos, $temp);
 }
 //displaying the result in json format
 echo json_encode($aproductos);
-?>
+
