@@ -1,7 +1,7 @@
 <?php
 
 //database constants
-define('DB_HOST','db4free.net:3306');
+define('DB_HOST','db4free.net');
 define('DB_USER','adaptable');
 define('DB_PASS', '1q2w3e4r');
 define('DB_NAME','adaptable');
